@@ -39,9 +39,10 @@ class Heroi {
         Heroi heroi3 = new Heroi("Li", 35, "Monge");
         Heroi heroi4 = new Heroi("Kira", 25, "Ninja");
 
-        heroi1.atacar();  System.out.println("o Mago atacou usando magia");
-        heroi2.atacar();  System.out.println("o Guerreiro atacou usando espada"); 
-        heroi3.atacar();  System.out.println("o Monge atacou usando artes marciais");
-        heroi4.atacar();  System.out.println("o Ninja atacou usando shuriken");
+        heroi1.atacar();  System.out.println("O Mago atacou usando magia");
+        heroi2.atacar();  System.out.println("O Guerreiro atacou usando espada");
+        heroi3.atacar();  System.out.println("O Monge atacou usando artes marciais");
+        heroi4.atacar();  System.out.println("O Ninja atacou usando shuriken");
+
     }
 }
